@@ -1,8 +1,8 @@
-# Practical Front-End Projects with Pure Javascript, CSS, and HTML
+# Realistic Front-End Projects with Pure Javascript, CSS, and HTML
 
-> Welcome to the Practical Front-End Projects repository!
+> Welcome to the Realistic Front-End Projects repository!
 
-> This repository contains a range of practical and user-friendly projects for front-end enthusiasts and beginners. The primary objective of this repository is to facilitate learning.
+> This repository contains a range of Realistic and user-friendly projects for front-end enthusiasts and beginners. The primary objective of this repository is to facilitate learning.
 
 > All the code samples provided are free and will always remain so.
 
@@ -37,7 +37,7 @@
 
 Please note that the projects included in this repository are intended solely for educational purposes. They serve as valuable learning resources to strengthen your front-end development skills. However, keep in mind that they may not be optimized for production environments or feature advanced functionalities.
 
-We hope you find these practical front-end projects helpful and enjoyable as you embark on your journey to becoming a proficient front-end developer. Happy coding!
+We hope you find these Realistic front-end projects helpful and enjoyable as you embark on your journey to becoming a proficient front-end developer. Happy coding!
 
 ## Projects
 ### 1. Custom Video Player 
@@ -67,7 +67,7 @@ A simple movie search website.
 
 ### 3. Note App 
 
-A practical note web app to handle categorized notes. There are notes that can have a category for. you can search in notes and edit or remove those.
+A Realistic note web app to handle categorized notes. There are notes that can have a category for. you can search in notes and edit or remove those.
 
 **[Online Demo](https://behnamazimi.github.io/simple-web-projects/notes-app/)**
 
@@ -132,7 +132,7 @@ This project is a real messaging app that developed with pure javascript without
 
 ### 8. Canvas Wallpaper 
 
-This is a practical canvas tutorial, a animated wallpaper with circles that moves on it. The code is full documented and easy to read.
+This is a Realistic canvas tutorial, a animated wallpaper with circles that moves on it. The code is full documented and easy to read.
 
 **[Online Demo](https://behnamazimi.github.io/simple-web-projects/canvas-wallpaper/)**
 
@@ -197,7 +197,7 @@ Since there are no bundlers used in this repository, all scripts have been direc
 
 We are working on adding new projects to this repository. Your input and feedback are highly appreciated, as they help us improve the repository and enhance its usefulness.
 
-We eagerly look forward to your contributions, suggestions, and comments to make this repository a thriving hub of practical front-end projects. Together, we can create an exceptional resource for aspiring developers.
+We eagerly look forward to your contributions, suggestions, and comments to make this repository a thriving hub of Realistic front-end projects. Together, we can create an exceptional resource for aspiring developers.
 
 ## Contribute
 
